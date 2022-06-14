@@ -8,11 +8,11 @@ h1{
     text-align: center;
     text-shadow: 4px 4px rgb(255, 255, 255);
   }
-  p {
-    color: pink;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    font-size: 24px;
-    text-align: center;
+p {
+  color: rgb(242, 142, 159);
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 24px;
+  text-align: center;
   }
   .cat-image{
     display: block;
@@ -24,4 +24,9 @@ h1{
     font-size: 15px;
     text-shadow: 2px 2px rgb(255, 255, 255);
     position:relative; top:-30px;
+  }
+  .image-border{
+    border-color: rgb(152, 186, 152);
+    border-width: 10px;
+    border-style: solid;
   }
